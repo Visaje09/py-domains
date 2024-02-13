@@ -49,7 +49,7 @@ class Pago():
 class Empleado():
     def __init__(self,
                  nombre_empleado,
-                 codigo,)
+                 codigo,):
         self.nombre_empleado = nombre_empleado
         self.codigo = codigo           
                
